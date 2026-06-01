@@ -18,7 +18,7 @@ Interested in network security and computer science.
 
 ## 🔭 Projects
 - [Port Scanner](https://github.com/Speedyxd423/port-scanner) — Multithreaded TCP port scanner built in Python
-- [Packet Sniffer](https://github.com/Speedyxd423/packet-sniffer)
+- [Packet Sniffer](https://github.com/Speedyxd423/packet-sniffer) - A multithreaded packet sniffer built in python
 
 ## 📫 Contact
 - LinkedIn: (To be added)
