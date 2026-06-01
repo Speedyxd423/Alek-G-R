@@ -17,7 +17,7 @@ Interested in network security and computer science.
 - Ethical hacking fundamentals
 
 ## 🔭 Projects
-- [Port Scanner](link-to-your-repo) — Multithreaded TCP port scanner built in Python
+- [Port Scanner](https://github.com/Speedyxd423/port-scanner) — Multithreaded TCP port scanner built in Python
 
 ## 📫 Contact
 - LinkedIn: (To be added)
